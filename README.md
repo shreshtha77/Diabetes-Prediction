@@ -1,5 +1,5 @@
-# House-Price-Prediction
+# Diabetes-Prediction
 
-- using XGBoost Regression
+- Support Vector Prediction
 
-Dataset Link: https://www.kaggle.com/datasets/vikrishnan/boston-house-prices
+Dataset Link: dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
